@@ -8,6 +8,11 @@ gem 'will_paginate', '3.0.3'
 gem 'bootstrap-will_paginate', '0.0.6'
 gem 'jquery-rails', '2.0.2'
 gem 'heroku'
+<<<<<<< HEAD
+=======
+gem 'contact_us', '~> 0.4.0'
+gem 'formtastic'
+>>>>>>> 8eb63bed2f75a21c8b9795068d831a9779e8cb88
 
 group :development, :test do
  gem 'sqlite3', '1.3.5'
