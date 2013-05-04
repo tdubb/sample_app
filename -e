@@ -1,0 +1,2 @@
+bundler: command not found: rspec/requests/users_pages_spec.rb
+Install missing gem executables with `bundle install`
